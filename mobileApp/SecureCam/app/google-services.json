@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "680585651523",
+    "firebase_url": "https://cam-d039e.firebaseio.com",
+    "project_id": "cam-d039e",
+    "storage_bucket": "cam-d039e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680585651523:android:f1e34bd1d8b922110e3bf6",
+        "android_client_info": {
+          "package_name": "org.xas.uned.camip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680585651523-9u6p2lt4k854hu2q51q89trhp7fodgeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlyF_MBtU_kuifIYNtD36RbL-hfIYwnbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680585651523-9u6p2lt4k854hu2q51q89trhp7fodgeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
